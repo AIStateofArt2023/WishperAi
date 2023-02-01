@@ -1,4 +1,5 @@
 Whisper AI
+https://github.com/openai/whisper for reference
 
 
 
